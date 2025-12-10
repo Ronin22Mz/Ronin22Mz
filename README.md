@@ -26,8 +26,8 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 
 ---
 
-🚀 Tech Stack & Skills 
-
+##🚀 Tech Stack & Skills 
+##
 ## 🎨 Frontend Development  
 <p align="left"> 
   <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
