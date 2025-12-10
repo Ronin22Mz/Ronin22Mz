@@ -5,7 +5,7 @@
 
 <br>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
 
 Soy Ingeniero de Sistemas especializado en Ciencia de Datos, Inteligencia Artificial y Desarrollo Front-End. Mi trabajo se centra en construir soluciones escalables, seguras y de alto rendimiento utilizando tecnologías modernas y buenas prácticas de ingeniería.
 
