@@ -1,33 +1,22 @@
 <!-- =========================
  👋 Header con imagen + typing
 ========================== -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
+  <!-- Tu foto / avatar -->
+  <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
 
   <!-- Título + typing -->
-  <div style="flex: 1;">
+  <div>
     <h1>Hi, I'm Ronin 👋</h1>
-
-    <p align="left">
+    <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
-        <img 
+        <img
           src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
         />
       </a>
     </p>
   </div>
-
-  <!-- Imagen EXACTA que pediste -->
-  <a target="_blank" align="center">
-    <img
-      align="right"
-      top="500"
-      height="300"
-      width="400"
-      alt="GIF"
-      src="./img/img.jpg"
-    >
-  </a>
 
 </div>
 
@@ -38,6 +27,7 @@
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
 Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
 
+---
 
 # 🚀 Tech Stack & Skills
 
