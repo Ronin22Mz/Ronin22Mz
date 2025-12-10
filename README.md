@@ -151,7 +151,6 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 <p align="center">
   <img 
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
-    style="clip-path: inset(25px 0 0 0);"
   />
 </p>
 
