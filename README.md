@@ -8,12 +8,12 @@
     <h1>Hi, I'm Ronin 👋</h1>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
-       <p>
-  <img align="right" width="270px" src="./img/img.jpg" alt="ronin-animation" />
-</p>
         <img
           src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
         />
+        <p>
+  <img align="right" width="270px" src="./img/img.jpg" alt="ronin-animation" />
+</p>
       </a>
     </p>
   </div>
