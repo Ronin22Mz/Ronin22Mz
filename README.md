@@ -7,26 +7,25 @@
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
 
-Soy Ingeniero de Sistemas especializado en Ciencia de Datos, Inteligencia Artificial y Desarrollo Front-End. Mi trabajo se centra en construir soluciones escalables, seguras y de alto rendimiento utilizando tecnologías modernas y buenas prácticas de ingeniería.
+Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, TypeScript, Java, SQL y Shell**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
-Tengo experiencia sólida con lenguajes y herramientas como **Python, JavaScript, TypeScript, Java, SQL, React, Spring Boot, PostgreSQL, Git/GitHub**, así como en el diseño y construcción de **modelos de IA, arquitecturas web modernas, sistemas seguros y pipelines de datos**.
+* **Estoy interesado en ingeniería de IA, IA generativa, seguridad de la información, desarrollo web moderno y arquitectura de software.**
 
-* **Estoy especialmente interesado en ingeniería de IA, aplicaciones de IA generativa, soluciones basadas en datos y optimización de rendimiento Front-End.**
+- 🌱 Actualmente estoy aprendiendo ...
+  - Machine Learning avanzado
+  - React.js
+  - Ingeniería de IA Generativa
+  - Ciberseguridad y gestión de riesgos
 
-- 🌱 Actualmente estoy aprendiendo y profundizando en:
-  - Machine Learning avanzado y MLOps  
-  - Ingeniería de IA generativa  
-  - Computación en la nube y seguridad (OCI, Azure)  
-  - Arquitecturas Front-End escalables (React + Clean Code)
+- 👯 Estoy buscando colaborar en proyectos open source, especialmente en:
+  - IA / ML  
+  - Ciencia de Datos  
+  - Seguridad de la Información  
+  - Desarrollo Front-End  
+  - Automatización y pipelines
 
-- 👯 Estoy buscando colaborar en **proyectos open source**, especialmente relacionados con:
-  - Machine Learning / IA  
-  - Pipelines y automatización de datos  
-  - Seguridad y hardening  
-  - Sistemas web modernos
+- ✔ Pregúntame sobre cualquier tema relacionado con **IA, Ciencia de Datos, Seguridad de la Información, desarrollo front-end o arquitectura de software**. Estaré encantado de ayudar cuando esté dentro de mi campo.<br>
 
-- ✔ Puedes preguntarme sobre **IA, Ciencia de Datos, Desarrollo Front-End, diseño de sistemas o arquitectura de software**. Estaré encantado de ayudarte cuando esté en mi campo.
+- Fuera de la tecnología, 📖 disfruto leer, 🎵 escuchar música y 🌴 explorar nuevos lugares.
 
-- Fuera de la tecnología, disfruto 📚 leer sobre ciencia cognitiva, 🎧 escuchar música y 🌍 explorar lugares nuevos.
 
-- 📫 Puedes contactarme en: **ben14mz@gmail.com**
