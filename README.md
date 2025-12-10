@@ -1,7 +1,6 @@
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
- 
-  <div>
+<div>
     <h1>Hi, I'm Ronin 👋</h1>
     <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
