@@ -15,12 +15,17 @@
 </div>
  <a target="_blank" align="center">
     <img
-      align="right" top="500" height="300" width="400" alt="GIF" src="./img/img.jpg"
+      align="right" top="500" height="600" width="400" alt="GIF" src="./img/img.jpg"
     >
   </a>
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
+<p align="left">
+  <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
+</p>
+
+## **About me**
+
 
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
 Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
