@@ -1,12 +1,6 @@
-<!-- =========================
- 👋 Header con imagen + typing
-========================== -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <!-- Tu foto / avatar -->
-  <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
-
-  <!-- Título + typing -->
+ 
   <div>
     <h1>Hi, I'm Ronin 👋</h1>
     <p align="center">
@@ -19,7 +13,16 @@
   </div>
 
 </div>
-
+ <a target="_blank" align="center">
+    <img
+      align="right"
+      top="500"
+      height="300"
+      width="400"
+      alt="GIF"
+      src="./img/img.jpg"
+    >
+  </a>
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
