@@ -3,9 +3,6 @@
 ========================== -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-  <!-- Tu foto / avatar -->
-  <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
-
   <!-- Título + typing -->
   <div>
     <h1>Hi, I'm Ronin 👋</h1>
