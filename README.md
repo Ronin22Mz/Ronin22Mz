@@ -1,45 +1,32 @@
 <!-- =========================
  👋 Header con imagen + typing
 ========================== -->
-<div align="center" style="display: flex; align-items: flex-start; justify-content: center; gap: 20px;">
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
   <!-- Tu foto / avatar -->
   <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
 
-  <!-- Título + typing + About me -->
-  <div style="text-align: left; max-width: 720px;">
+  <!-- Título + typing -->
+  <div>
     <h1>Hi, I'm Ronin 👋</h1>
-
-    <p>
+    <p align="center">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=false&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
+          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
         />
       </a>
     </p>
-
-    <!-- About me dentro del mismo bloque (a la derecha de la imagen) -->
-    <h2>
-      <picture>
-        <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px">
-      </picture>
-      <strong>About me</strong>
-    </h2>
-
-    <p>
-      Soy Ingeniero de Sistemas con enfoque en <strong>Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End</strong>.  
-      Manejo lenguajes como <strong>Python, JavaScript, Java y SQL</strong>, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
-    </p>
   </div>
-<p align="center">
-<a href="https://github.com/AVS1508">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=AVS1508&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+
 </div>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+---
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
+
+Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
+Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
+
 ---
 
 ## 🚀 Tech Stack & Skills
@@ -162,34 +149,23 @@
 
 ## 📊 GitHub Metrics
 
-<div align="center">
+<!-- Imagen animada alineada a la derecha -->
+<p>
+  <img align="right" width="270px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ronin-animation" />
+</p>
 
-  <div>
-    <img
-      height="150"
-      alt="stats graph"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
-    />
-    <img
-      height="150"
-      alt="languages graph"
-      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
-    />
-  </div>
+<!-- GitHub Stats estilo AVS1508 pero con tu usuario -->
+<p align="center">
+<a href="https://github.com/Ronin22Mz">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
 
-  <br/>
-
-  <img
-    alt="profile detail"
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
-  />
-
-  <br/><br/>
-
-  <!-- 🐍 Snake Animation -->
+<!-- 🐍 Snake Animation debajo de las métricas -->
+<p align="center">
   <img
     alt="Snake animation"
     src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
   />
-
-</div>
+</p>
