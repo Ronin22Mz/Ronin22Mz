@@ -9,21 +9,19 @@
         />
       </a>
     </p>
-  </div>
-
-</div>
-
----
-<p align="center">
+    <p align="center">
   <img width="260px" src="./img/img.jpg"/>
 </p>
-
+  </div>
 ---
 
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
 
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
 Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
+
+---
+</div>
 
 ---
 
