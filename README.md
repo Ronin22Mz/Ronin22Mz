@@ -106,26 +106,32 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img
     height="30"
     width="42"
-    alt="typescript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
     alt="python logo"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="matlab logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg"
+    alt="javascript logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
+    alt="java logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="html5 logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+  />
+  <img
+    height="30"
+    width="42"
+    alt="css3 logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
   />
   <img
     height="30"
@@ -136,26 +142,8 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img
     height="30"
     width="42"
-    alt="svelte logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/svelte/svelte-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="nextjs logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mongodb logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="redis logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg"
+    alt="tailwindcss logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
   />
   <img
     height="30"
@@ -166,55 +154,49 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img
     height="30"
     width="42"
-    alt="docker logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg"
+    alt="git logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="nginx logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg"
+    alt="github logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
   />
   <img
     height="30"
     width="42"
-    alt="processing logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/processing/processing-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="raspberrypi logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="arduino logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+    alt="oracle logo"
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
   />
 </div>
 
 ##
 
-And here are some interesting grphs:
-
-<!-- grph -->
+<!-- 📊 GitHub Graphs -->
 <div align="left">
   <div>
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=MR-Addict&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
     />
   </div>
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=MR-Addict&theme=vue" alt="profile detail" />
-  <img src="https://raw.githubusercontent.com/MR-Addict/MR-Addict/output/snake/snake.svg" alt="Snake animation" />
+
+  <img
+    alt="profile detail"
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+  />
+
+  <img
+    alt="Snake animation"
+    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake/snake.svg"
+  />
 </div>
 
 ##
