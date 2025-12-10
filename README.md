@@ -184,7 +184,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
+      src="http://github-profile-summary-cards/vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
     />
   </div>
 
@@ -193,11 +193,13 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
   />
 
+  <!-- 🐍 Snake Animation -->
   <img
     alt="Snake animation"
-    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake/snake.svg"
+    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
   />
 </div>
+
 
 ##
 
