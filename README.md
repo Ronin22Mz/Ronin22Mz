@@ -2,21 +2,13 @@
  👋 Header con imagen + typing
 ========================== -->
 
-<div style="display: flex; align-items: center; gap: 25px;">
-
-  <!-- Imagen a la izquierda -->
-  <div>
-    <img
-      src="./img/img.jpg"
-      width="150"
-      style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 12px rgba(0, 229, 255, 0.45);"
-    />
-  </div>
+<div style="display: flex; align-items: center; justify-content: space-between; gap: 20px;">
 
   <!-- Título + typing -->
-  <div>
+  <div style="flex: 1;">
     <h1>Hi, I'm Ronin 👋</h1>
-    <p>
+
+    <p align="left">
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
           src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2000&color=E3D924&vCenter=true&width=500&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
@@ -25,10 +17,22 @@
     </p>
   </div>
 
+  <!-- Imagen EXACTA que pediste -->
+  <a target="_blank" align="center">
+    <img
+      align="right"
+      top="500"
+      height="300"
+      width="400"
+      alt="GIF"
+      src="./img/img.jpg"
+    >
+  </a>
+
 </div>
-<a target="_blank" align="center">
-  <img align="right" top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
-</a>
+
+---
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
 
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
