@@ -23,9 +23,7 @@
 ##
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
 Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
-
----
-
+### 
 🚀 Tech Stack & Skills 
 ##
 ### 🎨 Frontend Development  
