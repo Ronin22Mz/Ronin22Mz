@@ -149,30 +149,34 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 
 ## 📊 GitHub Metrics
 
-<!-- Imagen animada alineada a la derecha -->
-<p>
-  <img align="right" width="270px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ronin-animation" />
-</p>
+<div align="center">
 
-<!-- Tres cuadros con estilo AVS1508 (tema algolia) -->
-<p align="center">
-  <a href="https://github.com/Ronin22Mz">
-    <!-- 1️⃣ Stats generales -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-    <!-- 2️⃣ Lenguajes más usados -->
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
-  </a>
-</p>
+  <div>
+    <img
+      height="150"
+      alt="stats graph"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
+    />
+    <img
+      height="150"
+      alt="languages graph"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
+    />
+  </div>
 
-<p align="center">
-  <!-- 3️⃣ Racha de contribuciones (streak) -->
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronin22Mz&theme=algolia&hide_border=false"/>
-</p>
+  <br/>
 
-<!-- 🐍 Snake Animation debajo de las métricas -->
-<p align="center">
+  <img
+    alt="profile detail"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+  />
+
+  <br/><br/>
+
+  <!-- 🐍 Snake Animation -->
   <img
     alt="Snake animation"
     src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
   />
-</p>
+
+</div>
