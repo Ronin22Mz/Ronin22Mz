@@ -1,16 +1,20 @@
-<h1 align="center">Hi , I'm Ronin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">Hi, I'm Ronin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Científico+de+Datos;Ingeniero+de+IA;Ingeniero+de+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Información;Siempre+aprendiendo+nuevas+cosas"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Científico+de+Datos;Ingeniero+de+IA;Ingeniero+de+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Información;Siempre+aprendiendo+nuevas+cosas">
+  </a>
 </p>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
+---
+
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ***About me***
 
 Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
+---
 
 ## 🚀 Tech Stack & Skills
-
----
 
 ### 🎨 Frontend Development  
 <p align="left"> 
@@ -62,7 +66,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> Nivel: Básico
+> Nivel: Básico.
 
 ---
 
@@ -72,7 +76,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-> Power BI (básico) • Excel (intermedio)
+> Power BI (básico) • Excel (intermedio).
 
 ---
 
@@ -81,7 +85,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="Bizagi" src="https://img.shields.io/badge/Bizagi-00A859.svg?style=for-the-badge&logoColor=white"/>
 </p>
 
-> Modelado y documentación de procesos (nivel básico)
+> Modelado y documentación de procesos (nivel básico).
 
 ---
 
@@ -90,7 +94,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0A192F.svg?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
-> Fundamentos de ciberseguridad • Desarrollo seguro • Principios básicos de hacking ético
+> Fundamentos de ciberseguridad • Desarrollo seguro • Principios básicos de hacking ético.
 
 ---
 
@@ -99,10 +103,11 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="OCI" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-> Fundamentos de Oracle Cloud (OCI)
+> Fundamentos de Oracle Cloud (OCI).
 
 ---
-<div>
+
+<div align="center">
   <img
     height="30"
     width="42"
@@ -171,10 +176,10 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   />
 </div>
 
-##
+---
 
 <!-- 📊 GitHub Graphs -->
-<div align="left">
+<div align="center">
   <div>
     <img
       height="150"
@@ -184,7 +189,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards/vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
+      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
     />
   </div>
 
@@ -199,7 +204,3 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
     src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
   />
 </div>
-
-
-##
-
