@@ -27,9 +27,13 @@
         />
       </a>
     </p>
+    
   </div>
 
 </div>
+<p align="center">
+  <img width="260px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
+</p>
 
 ---
 
@@ -165,9 +169,6 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 
-<p align="center">
-  <img width="260px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif"/>
-</p>
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"/>
