@@ -149,7 +149,10 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
 </p>
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"/>
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+    style="clip-path: inset(25px 0 0 0);"
+  />
 </p>
 
 <p align="center">
