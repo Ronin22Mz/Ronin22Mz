@@ -5,7 +5,9 @@
 
   <!-- Tu foto / avatar -->
   <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
-
+<p>
+  <img align="right" width="270px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ronin-animation" />
+</p>
   <!-- Título + typing -->
   <div>
     <h1>Hi, I'm Ronin 👋</h1>
@@ -150,9 +152,7 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 ## 📊 GitHub Metrics
 
 <!-- Imagen animada alineada a la derecha -->
-<p>
-  <img align="right" width="270px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ronin-animation" />
-</p>
+
 
 <!-- GitHub Stats estilo AVS1508 pero con tu usuario -->
 <p align="center">
