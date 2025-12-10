@@ -3,10 +3,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Científico+de+Datos;Ingeniero+de+IA;Ingeniero+de+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Información;Siempre+aprendiendo+nuevas+cosas"></a>
 </p>
 
-<br>
-
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
-
 Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, TypeScript, Java, SQL y Shell**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
 * **Estoy interesado en ingeniería de IA, IA generativa, seguridad de la información, desarrollo web moderno y arquitectura de software.**
@@ -28,4 +25,36 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
 
 - Fuera de la tecnología, 📖 disfruto leer, 🎵 escuchar música y 🌴 explorar nuevos lugares.
 
+- 📫 Puedes contactarme en: **ben14mz@gmail.com**
 
+
+---
+
+## **Habilidades Técnicas**
+
+- **Desarrollo Frontend:** HTML5, CSS3, JavaScript, React.  
+- **Manejo de Bases de Datos:** MySQL (consultas, modelado y mantenimiento básico).  
+- **Ingeniería de Requerimientos:** Análisis, documentación y gestión funcional de requisitos.  
+- **Metodologías Ágiles:** Scrum.  
+- **Lenguajes de Programación:** Python (básico), Java (básico).  
+- **Control de Versiones:** Git y GitHub (nivel básico).  
+- **Análisis y Visualización de Datos:** Power BI (básico), Microsoft Excel (intermedio).  
+- **Modelado y Procesos:** Bizagi Modeler (básico).  
+- **Seguridad Informática:** Fundamentos de ciberseguridad, buenas prácticas de desarrollo seguro y principios básicos de hacking ético.  
+- **Nube:** Fundamentos de Oracle Cloud (OCI).  
+
+
+---
+
+## **Habilidades Blandas**
+
+- Comunicación efectiva y escucha activa.  
+- Trabajo en equipo y colaboración multidisciplinaria.  
+- Resolución de problemas y pensamiento crítico.  
+- Adaptación al cambio y aprendizaje continuo.  
+- Gestión del tiempo y organización personal.  
+- Proactividad, responsabilidad y compromiso con los objetivos.  
+- Curiosidad tecnológica y entusiasmo por aprender cosas nuevas.  
+- Capacidad para asumir retos y superar desafíos.  
+- Liderazgo colaborativo y empatía profesional.  
+- Orientación a resultados y mejora continua.  
