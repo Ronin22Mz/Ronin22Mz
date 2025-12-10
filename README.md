@@ -4,57 +4,35 @@
 </p>
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> ***About me***
-Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, TypeScript, Java, SQL y Shell**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
+
+Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
 * **Estoy interesado en ingeniería de IA, IA generativa, seguridad de la información, desarrollo web moderno y arquitectura de software.**
 
-- 🌱 Actualmente estoy aprendiendo ...
-  - Machine Learning avanzado
-  - React.js
-  - Ingeniería de IA Generativa
-  - Ciberseguridad y gestión de riesgos
+### Conocimientos y Formación Complementaria
 
-- 👯 Estoy buscando colaborar en proyectos open source, especialmente en:
+Cuento con formación especializada en áreas clave como:
+
+- **Cloud Computing:** Oracle Cloud Infrastructure (OCI) Foundations.  
+- **Ciberseguridad:** principios de hacking ético, gestión de riesgos, fundamentos de ciberseguridad y seguridad para profesionales técnicos.  
+- **Ciencia de Datos:** fundamentos estadísticos, análisis de datos y preparación de datos con herramientas de Google.  
+- **Machine Learning:** fundamentos y aplicaciones prácticas con enfoque en proyectos reales.  
+- **Internet of Things (IoT):** programación y desarrollo de soluciones conectadas.  
+- **Programación:** cursos formales de Python, bases de programación y buenas prácticas.  
+- **Herramientas de Desarrollo:** Git y GitHub para control de versiones.  
+- **Inteligencia Artificial:** Introducción a IA generativa y herramientas como Google Gemini.  
+
+### Colaboración y Proyectos
+
+- 👯 Me interesa colaborar en proyectos open source relacionados con:
   - IA / ML  
   - Ciencia de Datos  
   - Seguridad de la Información  
   - Desarrollo Front-End  
-  - Automatización y pipelines
+  - Automatización y pipelines  
 
-- ✔ Pregúntame sobre cualquier tema relacionado con **IA, Ciencia de Datos, Seguridad de la Información, desarrollo front-end o arquitectura de software**. Estaré encantado de ayudar cuando esté dentro de mi campo.<br>
+### Cómo trabajo
 
-- Fuera de la tecnología, 📖 disfruto leer, 🎵 escuchar música y 🌴 explorar nuevos lugares.
-
+- ✔ Puedo ayudarte en temas de **IA, Ciencia de Datos, Seguridad Informática, desarrollo front-end o arquitectura de software**.<br>
+- Fuera de la tecnología, 📖 disfruto leer, 🎵 escuchar música y 🌴 explorar lugares nuevos.
 - 📫 Puedes contactarme en: **ben14mz@gmail.com**
-
-
----
-
-## **Habilidades Técnicas**
-
-- **Desarrollo Frontend:** HTML5, CSS3, JavaScript, React.  
-- **Manejo de Bases de Datos:** MySQL (consultas, modelado y mantenimiento básico).  
-- **Ingeniería de Requerimientos:** Análisis, documentación y gestión funcional de requisitos.  
-- **Metodologías Ágiles:** Scrum.  
-- **Lenguajes de Programación:** Python (básico), Java (básico).  
-- **Control de Versiones:** Git y GitHub (nivel básico).  
-- **Análisis y Visualización de Datos:** Power BI (básico), Microsoft Excel (intermedio).  
-- **Modelado y Procesos:** Bizagi Modeler (básico).  
-- **Seguridad Informática:** Fundamentos de ciberseguridad, buenas prácticas de desarrollo seguro y principios básicos de hacking ético.  
-- **Nube:** Fundamentos de Oracle Cloud (OCI).  
-
-
----
-
-## **Habilidades Blandas**
-
-- Comunicación efectiva y escucha activa.  
-- Trabajo en equipo y colaboración multidisciplinaria.  
-- Resolución de problemas y pensamiento crítico.  
-- Adaptación al cambio y aprendizaje continuo.  
-- Gestión del tiempo y organización personal.  
-- Proactividad, responsabilidad y compromiso con los objetivos.  
-- Curiosidad tecnológica y entusiasmo por aprender cosas nuevas.  
-- Capacidad para asumir retos y superar desafíos.  
-- Liderazgo colaborativo y empatía profesional.  
-- Orientación a resultados y mejora continua.  
