@@ -3,6 +3,9 @@
 ========================== -->
 <div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
+  <!-- Tu foto / avatar -->
+  <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
+
   <!-- Título + typing -->
   <div>
     <h1>Hi, I'm Ronin 👋</h1>
@@ -11,9 +14,6 @@
         <img
           src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
         />
-        <p>
-  <img align="right" width="270px" src="./img/img.jpg" alt="ronin-animation" />
-</p>
       </a>
     </p>
   </div>
@@ -150,14 +150,23 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 ## 📊 GitHub Metrics
 
 <!-- Imagen animada alineada a la derecha -->
+<p>
+  <img align="right" width="270px" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="ronin-animation" />
+</p>
 
-
-<!-- GitHub Stats estilo AVS1508 pero con tu usuario -->
+<!-- Tres cuadros con estilo AVS1508 (tema algolia) -->
 <p align="center">
-<a href="https://github.com/Ronin22Mz">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
-</a>
+  <a href="https://github.com/Ronin22Mz">
+    <!-- 1️⃣ Stats generales -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+    <!-- 2️⃣ Lenguajes más usados -->
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
+  </a>
+</p>
+
+<p align="center">
+  <!-- 3️⃣ Racha de contribuciones (streak) -->
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Ronin22Mz&theme=algolia&hide_border=false"/>
 </p>
 
 <!-- 🐍 Snake Animation debajo de las métricas -->
