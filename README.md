@@ -1,16 +1,31 @@
-<h1 align="center">Hi, I'm Ronin <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<!-- =========================
+ 👋 Header con imagen + typing
+========================== -->
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
 
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%23C8BE25&size=25&center=true&vCenter=true&width=600&height=100&lines=Ingeniero+de+Sistemas;Científico+de+Datos;Ingeniero+de+IA;Ingeniero+de+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Información;Siempre+aprendiendo+nuevas+cosas">
-  </a>
-</p>
+  <!-- Tu foto / avatar -->
+  <img src="./img/img.jpg" width="130" height="130" style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 15px rgba(0, 229, 255, 0.4);" />
+
+  <!-- Título + typing -->
+  <div>
+    <h1>Hi, I'm Ronin 👋</h1>
+    <p align="center">
+      <a href="https://github.com/DenverCoder1/readme-typing-svg">
+        <img
+          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
+        />
+      </a>
+    </p>
+  </div>
+
+</div>
 
 ---
 
-## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> ***About me***
+## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
 
-Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
+Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
+Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
 
 ---
 
@@ -66,7 +81,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> Nivel: Básico.
+> Nivel: básico.
 
 ---
 
@@ -94,7 +109,7 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
   <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0A192F.svg?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
-> Fundamentos de ciberseguridad • Desarrollo seguro • Principios básicos de hacking ético.
+> Fundamentos de ciberseguridad • Buenas prácticas de desarrollo seguro • Principios básicos de hacking ético.
 
 ---
 
@@ -107,100 +122,61 @@ Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artifici
 
 ---
 
-<div align="center">
-  <img
-    height="30"
-    width="42"
-    alt="python logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="javascript logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="java logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="html5 logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="css3 logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="react logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="tailwindcss logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="mysql logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="git logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="github logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-  />
-  <img
-    height="30"
-    width="42"
-    alt="oracle logo"
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg"
-  />
+## ⚡ Tech Stack (Futuristic Icons)
+
+<div align="center" style="
+  padding: 18px;
+  border-radius: 14px;
+  background: radial-gradient(circle at top, rgba(0,229,255,0.18), rgba(10,10,10,0.95));
+  box-shadow: 0 0 28px rgba(0, 229, 255, 0.35);
+">
+
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #00eaff);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ffe600);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ff4900);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ff6a00);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #009dff);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #00f0ff);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #00ffc8);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #00aaff);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ff3c00);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ffffff55);" />
+  <img height="42" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" style="margin: 10px; filter: drop-shadow(0 0 6px #ff2b2b);" />
+
 </div>
 
 ---
 
-<!-- 📊 GitHub Graphs -->
+## 📊 GitHub Metrics
+
 <div align="center">
+
   <div>
     <img
       height="150"
       alt="stats graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
     />
     <img
       height="150"
       alt="languages graph"
-      src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
+      src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
     />
   </div>
 
+  <br/>
+
   <img
     alt="profile detail"
-    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
   />
+
+  <br/><br/>
 
   <!-- 🐍 Snake Animation -->
   <img
     alt="Snake animation"
     src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
   />
+
 </div>
