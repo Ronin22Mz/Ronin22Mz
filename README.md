@@ -1,25 +1,39 @@
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 20px;">
+<!-- =========================
+ 👋 Header con imagen + typing
+========================== -->
 
+<div style="display: flex; align-items: center; gap: 25px;">
+
+  <!-- Imagen a la izquierda -->
+  <div>
+    <img
+      src="./img/img.jpg"
+      width="150"
+      style="border-radius: 50%; object-fit: cover; box-shadow: 0 0 12px rgba(0, 229, 255, 0.45);"
+    />
+  </div>
+
+  <!-- Título + typing -->
   <div>
     <h1>Hi, I'm Ronin 👋</h1>
-    <p align="center">
+    <p>
       <a href="https://github.com/DenverCoder1/readme-typing-svg">
         <img
-          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=24&pause=2000&color=E3D924&center=true&vCenter=true&width=650&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
+          src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=500&size=22&pause=2000&color=E3D924&vCenter=true&width=500&height=60&lines=Ingeniero+de+Sistemas;Cient%C3%ADfico+de+Datos;Ingeniero+de+IA+%26+IA+Generativa;Desarrollador+Front-End;Seguridad+de+la+Informaci%C3%B3n;Siempre+aprendiendo+nuevas+cosas"
         />
       </a>
     </p>
-    
   </div>
+
 </div>
-<p align="center">
-  <img width="260px" src="./img/img.jpg"/>
-</p>
+
+---
+
 ## <picture><img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width="50px"></picture> **About me**
 
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
 Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas orientadas a resultados.
----
+
 
 # 🚀 Tech Stack & Skills
 
