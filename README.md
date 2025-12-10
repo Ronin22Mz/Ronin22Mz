@@ -20,7 +20,6 @@
 
 
 ## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> **About me**
----
 #
 
 Soy Ingeniero de Sistemas con enfoque en **Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End**.  
