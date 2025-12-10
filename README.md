@@ -8,113 +8,97 @@
 Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
 
-## 🛠️ My Skills
+## 🚀 Tech Stack & Skills
 
-### 👉 Frontend Development  
+---
+
+### 🎨 Frontend Development  
 <p align="left"> 
-  &emsp; 
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/>
-  &emsp;
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/>
-  &emsp;
-  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
-  &emsp;
-  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=react&logoColor=black"/>
 </p>
 
 ---
 
-### 👉 Programming Languages  
+### 🧠 Programming Languages  
 <p align="left"> 
-  &emsp; 
-  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat&logo=python&logoColor=white"/>
-  &emsp;
-  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white"/>
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=for-the-badge&logo=python&logoColor=white"/>
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
 </p>
 
 ---
 
-### 👉 Databases  
+### 🗄️ Databases  
 <p align="left">
-  &emsp;
-  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?style=flat&logo=mysql&logoColor=white"/>
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-> **Nivel:** consultas, modelado y mantenimiento básico  
+> Consultas, modelado y mantenimiento básico.
 
 ---
 
-### 👉 Requirements Engineering  
+### 📝 Requirements Engineering  
 <p align="left">
-  &emsp;
-  <img alt="Requirements" src="https://img.shields.io/badge/Requirements%20Engineering-4B8BBE?style=flat&logo=markdown&logoColor=white"/>
+  <img alt="Requirements" src="https://img.shields.io/badge/Requirements%20Engineering-4B8BBE?style=for-the-badge&logo=markdown&logoColor=white"/>
 </p>
 
-> **Incluye:** análisis, documentación y gestión funcional de requisitos.
+> Análisis, documentación y gestión funcional de requisitos.
 
 ---
 
-### 👉 Agile Methodologies  
+### 🔄 Agile Methodologies  
 <p align="left">
-  &emsp;
-  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=Scrum&logoColor=white"/>
+  <img alt="Scrum" src="https://img.shields.io/badge/Scrum-6DB33F.svg?style=for-the-badge&logo=scrumalliance&logoColor=white"/>
 </p>
 
 ---
 
-### 👉 Version Control  
+### 🔧 Version Control  
 <p align="left">
-  &emsp;
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"/>
-  &emsp;
-  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
 
-> **Nivel:** básico
+> Nivel: Básico
 
 ---
 
-### 👉 Data Analysis & Visualization  
+### 📊 Data Analysis & Visualization  
 <p align="left">
-  &emsp;
-  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=powerbi&logoColor=black"/>
-  &emsp;
-  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white"/>
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
 </p>
 
-> **Power BI:** básico  
-> **Excel:** intermedio  
+> Power BI (básico) • Excel (intermedio)
 
 ---
 
-### 👉 Modeling & Business Processes  
+### 🧩 Modeling & Business Processes  
 <p align="left">
-  &emsp;
-  <img alt="Bizagi" src="https://img.shields.io/badge/Bizagi-00A859.svg?style=flat&logoColor=white"/>
+  <img alt="Bizagi" src="https://img.shields.io/badge/Bizagi-00A859.svg?style=for-the-badge&logoColor=white"/>
 </p>
 
-> **Nivel:** básico  
+> Modelado y documentación de procesos (nivel básico)
 
 ---
 
-### 👉 Cybersecurity & Secure Development  
+### 🛡️ Cybersecurity & Secure Development  
 <p align="left">
-  &emsp;
-  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0A192F.svg?style=flat&logo=hackthebox&logoColor=white"/>
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0A192F.svg?style=for-the-badge&logo=hackthebox&logoColor=white"/>
 </p>
 
-> **Incluye:**  
-> • Fundamentos de ciberseguridad  
-> • Buenas prácticas de desarrollo seguro  
-> • Principios básicos de hacking ético  
+> Fundamentos de ciberseguridad • Desarrollo seguro • Principios básicos de hacking ético
 
 ---
 
-### 👉 Cloud Computing  
+### ☁️ Cloud Computing  
 <p align="left">
-  &emsp;
-  <img alt="OCI" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=flat&logo=oracle&logoColor=white"/>
+  <img alt="OCI" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-> **Fundamentos de OCI (Oracle Cloud Infrastructure)**
+> Fundamentos de Oracle Cloud (OCI)
 
+---
