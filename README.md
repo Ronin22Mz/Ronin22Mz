@@ -7,32 +7,79 @@
 
 Soy Ingeniero de Sistemas con enfoque en Ciencia de Datos, Inteligencia Artificial, Seguridad de la Información y Desarrollo Front-End. Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y construir soluciones nuevas, productivas, innovadoras y creativas.
 
-* **Estoy interesado en ingeniería de IA, IA generativa, seguridad de la información, desarrollo web moderno y arquitectura de software.**
 
-### Conocimientos y Formación Complementaria
+## 🛠️ My Skills
 
-Cuento con formación especializada en áreas clave como:
+### 👉 Programming Languages
+<p align="left"> 
+  &emsp; 
+  <img alt="Python" src="https://img.shields.io/badge/Python-14354C.svg?style=flat&logo=python&logoColor=white"/>
+  &emsp;
+  <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=flat&logo=javascript&logoColor=black"/>
+  &emsp;
+  <img alt="Java" src="https://img.shields.io/badge/Java-007396.svg?style=flat&logo=java&logoColor=white"/>
+  &emsp;
+  <img alt="SQL" src="https://img.shields.io/badge/SQL-336791.svg?style=flat&logo=postgresql&logoColor=white"/>
+</p>
 
-- **Cloud Computing:** Oracle Cloud Infrastructure (OCI) Foundations.  
-- **Ciberseguridad:** principios de hacking ético, gestión de riesgos, fundamentos de ciberseguridad y seguridad para profesionales técnicos.  
-- **Ciencia de Datos:** fundamentos estadísticos, análisis de datos y preparación de datos con herramientas de Google.  
-- **Machine Learning:** fundamentos y aplicaciones prácticas con enfoque en proyectos reales.  
-- **Internet of Things (IoT):** programación y desarrollo de soluciones conectadas.  
-- **Programación:** cursos formales de Python, bases de programación y buenas prácticas.  
-- **Herramientas de Desarrollo:** Git y GitHub para control de versiones.  
-- **Inteligencia Artificial:** Introducción a IA generativa y herramientas como Google Gemini.  
+---
 
-### Colaboración y Proyectos
+### 👉 Frontend Development
+<p align="left"> 
+  &emsp; 
+  <img alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26.svg?style=flat&logo=html5&logoColor=white"/>
+  &emsp;
+  <img alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6.svg?style=flat&logo=css3&logoColor=white"/>
+  &emsp;
+  <img alt="React" src="https://img.shields.io/badge/React-61DAFB.svg?style=flat&logo=react&logoColor=black"/>
+  &emsp;
+  <img alt="TailwindCSS" src="https://img.shields.io/badge/TailwindCSS-38B2AC.svg?style=flat&logo=tailwind-css&logoColor=white"/>
+</p>
 
-- 👯 Me interesa colaborar en proyectos open source relacionados con:
-  - IA / ML  
-  - Ciencia de Datos  
-  - Seguridad de la Información  
-  - Desarrollo Front-End  
-  - Automatización y pipelines  
+---
 
-### Cómo trabajo
+### 👉 Databases & Cloud
+<p align="left">
+  &emsp;
+  <img alt="MySQL" src="https://img.shields.io/badge/MySQL-005C84.svg?style=flat&logo=mysql&logoColor=white"/>
+  &emsp;
+  <img alt="Oracle Cloud" src="https://img.shields.io/badge/Oracle%20Cloud-F80000.svg?style=flat&logo=oracle&logoColor=white"/>
+  &emsp;
+  <img alt="Firebase" src="https://img.shields.io/badge/Firebase-316192.svg?style=flat&logo=firebase&logoColor=white"/>
+</p>
 
-- ✔ Puedo ayudarte en temas de **IA, Ciencia de Datos, Seguridad Informática, desarrollo front-end o arquitectura de software**.<br>
-- Fuera de la tecnología, 📖 disfruto leer, 🎵 escuchar música y 🌴 explorar lugares nuevos.
-- 📫 Puedes contactarme en: **ben14mz@gmail.com**
+---
+
+### 👉 Tools & Version Control
+<p align="left">
+  &emsp;
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033.svg?style=flat&logo=git&logoColor=white"/>
+  &emsp;
+  <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717.svg?style=flat&logo=github&logoColor=white"/>
+  &emsp;
+  <img alt="Power BI" src="https://img.shields.io/badge/Power%20BI-F2C811.svg?style=flat&logo=powerbi&logoColor=black"/>
+  &emsp;
+  <img alt="Excel" src="https://img.shields.io/badge/Excel-217346.svg?style=flat&logo=microsoft-excel&logoColor=white"/>
+</p>
+
+---
+
+### 👉 Artificial Intelligence, Machine Learning & Cybersecurity
+<p align="left">
+  &emsp;
+  <img alt="Machine Learning" src="https://img.shields.io/badge/Machine%20Learning-102230.svg?style=flat&logo=tensorflow&logoColor=orange"/>
+  &emsp;
+  <img alt="AI" src="https://img.shields.io/badge/Artificial%20Intelligence-000000.svg?style=flat&logo=OpenAI&logoColor=white"/>
+  &emsp;
+  <img alt="Generative AI" src="https://img.shields.io/badge/Generative%20AI-8A2BE2.svg?style=flat&logo=openai&logoColor=white"/>
+  &emsp;
+  <img alt="Cybersecurity" src="https://img.shields.io/badge/Cybersecurity-0A192F.svg?style=flat&logo=hackthebox&logoColor=white"/>
+</p>
+
+---
+
+### 👉 Modeling & Process Design
+<p align="left">
+  &emsp;
+  <img alt="Bizagi" src="https://img.shields.io/badge/Bizagi-00A859.svg?style=flat&logoColor=white"/>
+</p>
