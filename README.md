@@ -161,12 +161,6 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
   />
 </p>
 
-<!-- Top Languages by Commit (opcional pero limpio) -->
-<p align="center">
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=dracula"
-  />
-</p>
 
 <!-- Snake -->
 <p align="center">
