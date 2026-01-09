@@ -145,26 +145,33 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 # 📊 GitHub Metrics
 
 <p align="center">
-  <!-- GitHub Stats -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&v=1"/>
-
-  <!-- Top Languages -->
-  <img height="180em"
-       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=6&theme=algolia&v=1"/>
+  <!-- Profile Details -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+  />
 </p>
 
 <p align="center">
-  <!-- Profile Summary -->
+  <!-- Stats -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue&v=1"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
+  />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronin22Mz&theme=vue"
+  />
+</p>
+
+<p align="center">
+  <!-- Most Commit Language -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
   />
 </p>
 
 <p align="center">
   <!-- Snake Animation -->
   <img
-    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg?v=1"
+    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
     alt="Snake animation"
   />
 </p>
