@@ -145,16 +145,26 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 # 📊 GitHub Metrics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=8&theme=algolia"/>
+  <!-- GitHub Stats -->
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Ronin22Mz&show_icons=true&theme=algolia&include_all_commits=true&v=1"/>
+
+  <!-- Top Languages -->
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ronin22Mz&layout=compact&langs_count=6&theme=algolia&v=1"/>
 </p>
+
 <p align="center">
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+  <!-- Profile Summary -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue&v=1"
   />
 </p>
 
 <p align="center">
   <!-- Snake Animation -->
-  <img src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg" alt="Snake animation"/>
+  <img
+    src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg?v=1"
+    alt="Snake animation"
+  />
 </p>
