@@ -144,32 +144,32 @@ Manejo lenguajes como **Python, JavaScript, Java y SQL**, y disfruto aprender y 
 
 # 📊 GitHub Metrics
 
+<!-- Profile overview -->
 <p align="center">
-  <!-- Profile Details -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=vue"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Ronin22Mz&theme=tokyonight"
   />
 </p>
 
+<!-- Stats + Languages -->
 <p align="center">
-  <!-- Stats -->
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=vue"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ronin22Mz&theme=algolia"
   />
   <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronin22Mz&theme=vue"
-  />
-</p>
-
-<p align="center">
-  <!-- Most Commit Language -->
-  <img
-    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=vue"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ronin22Mz&theme=github_dark"
   />
 </p>
 
+<!-- Top Languages by Commit (opcional pero limpio) -->
 <p align="center">
-  <!-- Snake Animation -->
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Ronin22Mz&theme=dracula"
+  />
+</p>
+
+<!-- Snake -->
+<p align="center">
   <img
     src="https://raw.githubusercontent.com/Ronin22Mz/Ronin22Mz/output/snake.svg"
     alt="Snake animation"
